@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1>Salve <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Yago!</h1>
+Mais um curioso afim de aprender sobre o mundo da tecnologia
 
-<!--
-**EAATA-Brasil/EAATA-Brasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- O estagiário 🤓
+- Junior Web Developer 👨🏽‍💻
+- CTFer iniciante 🕵🏽‍♂️
+- Aprendiz de poeta 🖋️
+<div align="left">
+  <a href="https://github.com/intern-yago">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=intern-yago&show_icons=true&include_all_commits=false&count_private=true&text_color=FFFFFF&title_color=ff6e00&bg_color=000000&icon_color=ff0000&boder_color=FFFFFF&include_all_commits=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intern-yago&layout=compact&langs_count=5&text_color=FFFFFF&title_color=ffFFff&bg_color=000000&icon_color=0033CC&boder_color=FFFFFF"/>
+</div>
+ <div style="display: inline_block">
+  <br/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//html5/html5-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+   
+    
+</div>
+  
+  ##
+  
+  <div>
+    <a href="https://instagram.com/ti_intern" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yago.commercial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yago-victor-0892481b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0071aa?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://twitter.com/pequeno_poetist" target="_blank"><img src="https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  </div>
+  
+  ![Snake animation](https://github.com/intern-yago/intern-yago/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
