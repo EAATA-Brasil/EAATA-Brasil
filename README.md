@@ -6,9 +6,9 @@ Mais um curioso afim de aprender sobre o mundo da tecnologia
 - CTFer iniciante 🕵🏽‍♂️
 - Aprendiz de poeta 🖋️
 <div align="left">
-  <a href="https://github.com/intern-yago">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=intern-yago&show_icons=true&include_all_commits=false&count_private=true&text_color=FFFFFF&title_color=ff6e00&bg_color=000000&icon_color=ff0000&boder_color=FFFFFF&include_all_commits=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intern-yago&layout=compact&langs_count=5&text_color=FFFFFF&title_color=ffFFff&bg_color=000000&icon_color=0033CC&boder_color=FFFFFF"/>
+  <a href="https://github.com/eaata-brasil">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=eaata-brasil&show_icons=true&include_all_commits=false&count_private=true&text_color=FFFFFF&title_color=ff6e00&bg_color=000000&icon_color=ff0000&boder_color=FFFFFF&include_all_commits=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaata-brasil&layout=compact&langs_count=5&text_color=FFFFFF&title_color=ffFFff&bg_color=000000&icon_color=0033CC&boder_color=FFFFFF"/>
 </div>
  <div style="display: inline_block">
   <br/>
@@ -34,5 +34,5 @@ Mais um curioso afim de aprender sobre o mundo da tecnologia
     <a href="https://twitter.com/pequeno_poetist" target="_blank"><img src="https://img.shields.io/badge/Twitter-1A8CD8?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/intern-yago/intern-yago/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eaata-brasil/eaata-brasil/blob/output/github-contribution-grid-snake.svg)
 
